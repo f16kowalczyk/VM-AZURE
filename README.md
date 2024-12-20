@@ -1,7 +1,7 @@
 # VM-AZURE
  That is documentacion about VM in Azure
 
-That is ARM tamplet VM 
+That is ARM tamplet VM for use that file please create template.jonson
 
     {
         "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
@@ -98,8 +98,25 @@ That is ARM tamplet VM
 
 
 
+# USE TEMPLATE 
+
+go to vm
+
 ![alt text](IMAGE/image.png)
+
+go to automatisacion / export tamplet
 
 ![alt text](IMAGE/image1.png)
 
+click deploy  
+
 ![alt text](IMAGE/image2.png)
+
+and go to remember about two file parameters and tamplet
+
+![alt text](IMAGE/image3.png)
+
+next click add file
+
+![alt text](IMAGE/image4.png)
+
